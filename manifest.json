@@ -1,0 +1,22 @@
+{
+  "name": "VizualNetwork - Futuristic Web Proxy",
+  "short_name": "VizualNetwork",
+  "description": "Access the web through VizualNetwork's advanced proxy system with cyberpunk-styled interface",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["productivity", "utilities", "network"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
